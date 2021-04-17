@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered'>
+    <pages>
+        <page name='FizzBuzz'/>
+        <page name='Solução com Condicionais'/>
+        <page name='Solução com Switch'/>
+        <page name='Palíndromo'/>
+        <page name='Is the Same?'/>
+        <page name='Randoms'/>
+        <page name='IntAsString'/>
+    </pages>
+</playground>
